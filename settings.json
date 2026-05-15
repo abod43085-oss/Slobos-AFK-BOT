@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "jasir4.aternos.me:32613",
+    "ip": "jasir4.aternos.me",
     "port": 32613,
     "version": "1.21.1"
   },
